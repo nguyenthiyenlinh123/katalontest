@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>680d7d33-5a83-45ac-a082-e49897860072</webElementGuid>
+      <webElementGuid>e79359e4-9bff-417a-89b1-ea68bea30c31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa fa-twitter fa-fw fa-3x</value>
-      <webElementGuid>7ccdaa86-9bd0-4f1a-a2c4-d66178717840</webElementGuid>
+      <webElementGuid>937f4b84-dd25-4d4b-ba5f-abc8edc7e4c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/footer[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-10 col-lg-offset-1 text-center&quot;]/ul[@class=&quot;list-inline&quot;]/li[2]/a[1]/i[@class=&quot;fa fa-twitter fa-fw fa-3x&quot;]</value>
-      <webElementGuid>4f1f477b-ae7a-492d-83ae-2cb7272effc3</webElementGuid>
+      <webElementGuid>d17cf04d-e164-4b29-a527-92c72a10ce18</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,6 +53,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/a/i</value>
-      <webElementGuid>b77804e5-7a15-45d9-a928-dd87b9ce2c62</webElementGuid>
+      <webElementGuid>69fc8c76-b0fc-41cd-9cec-25b8192280c6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

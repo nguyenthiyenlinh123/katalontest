@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>8ac0d2ba-5171-4110-95c1-b08736834a7c</webElementGuid>
+      <webElementGuid>894277aa-1e79-467d-b04a-52cf527ff829</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>col-lg-10 col-lg-offset-1 text-center</value>
-      <webElementGuid>85f50ac7-8ed3-44fc-b3cc-c399e7becea5</webElementGuid>
+      <webElementGuid>1414f4af-2e77-4c5c-b650-12c6985fe843</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -68,7 +68,7 @@
                 
                 Copyright © CURA Healthcare Service 2024
             </value>
-      <webElementGuid>0e1ec96a-ac0e-4483-8138-9b3048241144</webElementGuid>
+      <webElementGuid>c1b0d1fc-417f-4604-8ed8-7cea623c365b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -76,7 +76,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/footer[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-10 col-lg-offset-1 text-center&quot;]</value>
-      <webElementGuid>84380829-2b3b-48c5-96f8-13ba401d1027</webElementGuid>
+      <webElementGuid>32676ce3-c85b-4323-bef7-d86a91d0a727</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -84,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::div[3]</value>
-      <webElementGuid>02052ab4-4fca-4dc2-a89d-04bbcfc32de9</webElementGuid>
+      <webElementGuid>9703f76b-eb77-4361-95a0-28b4238c4ebd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='We Care About Your Health'])[1]/following::div[3]</value>
-      <webElementGuid>cae9a5da-59ba-4325-b5ca-76636a156017</webElementGuid>
+      <webElementGuid>2be5e234-3f26-4eda-ac7e-e3a442693dbb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -100,7 +100,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div</value>
-      <webElementGuid>dc0fb4df-a914-4276-a3bb-2cc995dac4e1</webElementGuid>
+      <webElementGuid>4d4069eb-1eb6-4f40-b227-bd733cf6fb10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -154,6 +154,6 @@
                 
                 Copyright © CURA Healthcare Service 2024
             ')]</value>
-      <webElementGuid>4a262027-c6c2-41ca-89ab-5895f39e5bbe</webElementGuid>
+      <webElementGuid>0f01d5db-f39e-48bf-91a2-b5342068c0ef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

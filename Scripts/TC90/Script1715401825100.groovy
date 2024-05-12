@@ -35,5 +35,68 @@ WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/i_inf
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/div_CURA Healthcare Service                _bba294'))
 
+WebUI.takeAreaScreenshot(null)
+
 WebUI.closeBrowser()
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Make Appointment'))
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Make Appointment'))
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Username_username'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Username_username'))
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Demo account_form-control'))
+
+WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Username_username'), 'John Doe')
+
+WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Demo account_form-control'), 'ThisIsNotAPassword')
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Demo account_form-control'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Password_password'), 'gdcc432nhE0fy+OnPxrtHw==')
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/section_Login                Please login t_1b7c0a'))
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/div_Demo account_col-sm-offset-4 col-sm-8'))
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'))
+
+WebUI.doubleClick(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Demo account_form-control'))
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Demo account_form-control'))
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Demo account_form-control'))
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Demo account_form-control'))
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Demo account_form-control'))
+
+WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Username_username'), 'John Doe')
+
+WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Demo account_form-control'), 'ThisIsNotAPassword')
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Demo account_form-control'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Password_password'), 'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/div_Login                Please login to ma_2c43a4'))
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'), 
+    'Seoul CURA Healthcare Center', true)
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/div_Facility                               _1a14ac'))
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/div_Apply for hospital readmission'))
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Apply for hospital readmission_hospit_63901f'))
 
