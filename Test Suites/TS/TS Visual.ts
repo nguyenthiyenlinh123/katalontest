@@ -172,4 +172,11 @@
          <variableId>1f69667a-2cec-49c1-ac7e-c69cbfac8549</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>4b1a63f5-24c2-4bdb-9c0d-61f5581c1e4d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Main Test Cases/TC06</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
