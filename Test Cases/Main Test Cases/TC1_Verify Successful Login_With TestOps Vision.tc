@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1_Verify Successful Login_With TestOps Vision</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3dae280e-9510-49ac-8d8c-e30e8d7f3ca2</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>14d98e7b-4ac8-4e28-8ce7-394001d188f0</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>a97344e7-5f9c-4936-92a2-d85e5463f3c9</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Vision_Common/Login_Dialog')</defaultValue>
+      <description></description>
+      <id>f511468b-f7ec-4a6b-a846-099bea38eeb3</id>
+      <masked>false</masked>
+      <name>LoginObject</name>
+   </variable>
+</TestCaseEntity>
