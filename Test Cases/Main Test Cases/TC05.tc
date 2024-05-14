@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07f5ac29-9e99-4299-bba5-7de7dac01b1d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1f69667a-2cec-49c1-ac7e-c69cbfac8549</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1f69667a-2cec-49c1-ac7e-c69cbfac8549</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
