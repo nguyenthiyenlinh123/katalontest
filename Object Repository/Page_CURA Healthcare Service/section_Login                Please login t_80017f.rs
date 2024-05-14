@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Login                Please login to ma_5151a8</name>
+   <name>section_Login                Please login t_80017f</name>
    <tag></tag>
-   <elementGuidId>279df0f1-5249-4084-aff7-5f18c610e430</elementGuidId>
+   <elementGuidId>4c56b8bd-ac09-44a9-86ef-199c4cb064ee</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//section[@id='login']/div/div</value>
+         <value>//section[@id='login']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.row</value>
+         <value>#login</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;Login Please login to make appointment. Demo account Username Password Login&quot;i</value>
+         <value>#login</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,16 +28,24 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>d005e7d2-9cb0-4383-bcf5-a0920faaa225</webElementGuid>
+      <value>section</value>
+      <webElementGuid>27f9a880-3486-45f6-b45d-550589c572a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>login</value>
+      <webElementGuid>14f64b55-229e-41fe-8fe8-9592dac0c034</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>row</value>
-      <webElementGuid>e486567f-7cf5-45d8-9c1d-42cbf3a43181</webElementGuid>
+      <value>section</value>
+      <webElementGuid>005d02fd-e556-4610-b0cf-aec6b7641b75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,6 +53,8 @@
       <name>text</name>
       <type>Main</type>
       <value>
+    
+        
             
                 Login
                 Please login to make appointment.
@@ -89,55 +99,59 @@
                     
                 
             
-        </value>
-      <webElementGuid>8cedb925-d412-46f3-84e9-522ec5993c28</webElementGuid>
+        
+    
+</value>
+      <webElementGuid>76516442-a3d9-4cad-9327-06c1f2ff4ef9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;login&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]</value>
-      <webElementGuid>9272f42d-5979-4380-a45d-4c5ff2b2de0d</webElementGuid>
+      <value>id(&quot;login&quot;)</value>
+      <webElementGuid>e9b500ef-1bdf-46c1-b799-e7a628f18681</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//section[@id='login']/div/div</value>
-      <webElementGuid>beb31ab9-4c74-43b6-a333-c2d6fa683a48</webElementGuid>
+      <value>//section[@id='login']</value>
+      <webElementGuid>dd58db0d-3c8a-44f4-ae4e-7f5fccaf9f66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::div[2]</value>
-      <webElementGuid>35a89519-0592-4173-9e2a-ce90df8edafb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::section[1]</value>
+      <webElementGuid>796633f0-b652-42a8-b818-d32edb7c27d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='We Care About Your Health'])[1]/following::div[2]</value>
-      <webElementGuid>e31e74db-ed5d-45b2-8455-6aa7e31e76fe</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='We Care About Your Health'])[1]/following::section[1]</value>
+      <webElementGuid>c3bea337-8dde-4a11-8683-e642e3563a1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div</value>
-      <webElementGuid>7be8778f-9341-4446-8690-1474af117b0a</webElementGuid>
+      <value>//section</value>
+      <webElementGuid>ec16d250-a9cc-4acb-958b-857eb51a019c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = '
+      <value>//section[@id = 'login' and (text() = '
+    
+        
             
                 Login
                 Please login to make appointment.
@@ -182,7 +196,11 @@
                     
                 
             
-        ' or . = '
+        
+    
+' or . = '
+    
+        
             
                 Login
                 Please login to make appointment.
@@ -227,7 +245,9 @@
                     
                 
             
-        ')]</value>
-      <webElementGuid>4be28a39-9369-4d32-9ddd-84c8ce2217ab</webElementGuid>
+        
+    
+')]</value>
+      <webElementGuid>49935e5a-7cfb-436e-887c-9487ccbb79f2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

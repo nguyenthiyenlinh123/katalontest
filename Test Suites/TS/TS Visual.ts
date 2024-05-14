@@ -159,4 +159,17 @@
          <variableId>e53dfdc4-8981-4ece-a9bb-6dc45cf28fc8</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>003cf5d3-7ec9-4533-a250-af984c43070f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Main Test Cases/TC05</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1f69667a-2cec-49c1-ac7e-c69cbfac8549</variableId>
+      </variableLink>
+   </testCaseLink>
 </TestSuiteEntity>

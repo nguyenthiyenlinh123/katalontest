@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>span</value>
+         <value>#appointment span</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>5b8ca556-220a-4bcc-ade5-9dee5d55c0db</webElementGuid>
+      <webElementGuid>88e38f84-3f0d-4c4f-87c0-f507edea74e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>glyphicon glyphicon-calendar</value>
-      <webElementGuid>a26a8507-656c-4db1-8672-b43c67ebba5a</webElementGuid>
+      <webElementGuid>36d0f963-81c6-44c2-9071-979e8bf8bac0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;appointment&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-4&quot;]/div[@class=&quot;input-group date&quot;]/div[@class=&quot;input-group-addon&quot;]/span[@class=&quot;glyphicon glyphicon-calendar&quot;]</value>
-      <webElementGuid>4d9bd241-6978-433c-8346-181f5a6a7fa6</webElementGuid>
+      <webElementGuid>f815d6f2-fc73-4acb-af06-4a451dbd82f5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='appointment']/div/div/form/div[4]/div/div/div/span</value>
-      <webElementGuid>908f5c99-548d-434b-95f3-e1c2cda0e87b</webElementGuid>
+      <webElementGuid>6a5177b0-ba64-4f49-bd9a-bbfc5c255c57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span</value>
-      <webElementGuid>91c4a4a0-4069-4fd6-9b8e-1a5652889eab</webElementGuid>
+      <webElementGuid>a7b33ac1-9cd0-4e72-8e5c-26638dd109d5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
