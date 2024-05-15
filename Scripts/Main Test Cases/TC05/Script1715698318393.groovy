@@ -25,7 +25,7 @@ WebUI.rightClick(findTestObject('Object Repository/Page_CURA Healthcare Service/
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Make Appointment'), 0)
 
-WebUI.verifyCheckpoint(findCheckpoint('Checkpoints/CP01'), false)
+WebUI.verifyCheckpoint(findCheckpoint('null'), false)
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Make Appointment'))
 
